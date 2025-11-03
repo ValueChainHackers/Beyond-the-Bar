@@ -1,0 +1,548 @@
+---
+title: "COCOA VALUE CHAIN TRACEABILITY RECORD"
+subtitle: "Beyond the Bar – Trace: Standardized ESG Reporting Form"
+date: today
+format:
+  pdf:
+    documentclass: article
+    geometry: margin=0.75in
+    fontsize: 10pt
+    number-sections: true
+    colorlinks: true
+---
+
+\vspace{0.5cm}
+
+::: {.callout-note}
+## Purpose of This Form
+This standardized traceability form serves as the **primary data collection instrument** for the cocoa value chain. By completing this form at each stage of the supply chain, actors create a comprehensive, auditable record that meets EUDR requirements while establishing a de facto ESG reporting standard for the cocoa sector.
+
+**Key principle:** *Transparency through standardization - one form, one format, one truth.*
+:::
+
+\hrulefill
+
+# TRANSACTION IDENTIFICATION
+
+**Form Reference Number:** _________________________ (Auto-generated UUID)
+
+**Transaction Date:** ______________________ **Time:** ______________________
+
+**Stage in Value Chain:**
+[ ] Farm Production
+[ ] Cooperative Collection
+[ ] Processing/Fermentation
+[ ] Export
+[ ] Import (EU Border)
+[ ] Manufacturing
+
+**Previous Form Reference (if applicable):** _________________________
+
+\hrulefill
+
+# SECTION 1: ACTOR IDENTIFICATION
+
+## 1.1 Current Custodian (Person/Organization Completing This Form)
+
+**Full Legal Name:** _____________________________________________________________
+
+**Registration Number:** _________________________ **Country:** _________________
+
+**Physical Address:** _____________________________________________________________
+
+_____________________________________________________________
+
+**GPS Coordinates of Facility/Farm:** Lat: ______________ Long: ______________
+
+**Contact Person:** _________________________ **Phone:** _____________________
+
+**Email:** _____________________________________________________________
+
+**Certification(s) Held:**
+[ ] Fairtrade (Cert. #: ________________)
+[ ] Rainforest Alliance (Cert. #: ________________)
+[ ] Organic (Cert. #: ________________)
+[ ] UTZ (Cert. #: ________________)
+[ ] Other: ________________ (Cert. #: ________________)
+
+## 1.2 Previous Custodian (Transferred From)
+
+**Full Legal Name:** _____________________________________________________________
+
+**Registration Number:** _________________________ **Country:** _________________
+
+**Transaction Reference:** _________________________
+
+\newpage
+
+# SECTION 2: PRODUCT INFORMATION
+
+## 2.1 Product Description
+
+**Product Type:**
+[ ] Fresh cocoa pods
+[ ] Wet beans
+[ ] Fermented beans
+[ ] Dried beans
+[ ] Semi-processed (liquor/butter/powder)
+[ ] Other: _________________________
+
+**Quantity:** _____________ kg (net weight)
+
+**Number of Bags/Containers:** _____________
+
+**Batch/Lot Number:** _________________________
+
+**Quality Grade:** [ ] Grade 1 [ ] Grade 2 [ ] Grade 3 [ ] Substandard
+
+**Moisture Content:** _____________% (if dried beans)
+
+## 2.2 Origin Traceability
+
+**Country of Production:** _________________________
+
+**Region/District:** _________________________
+
+**Specific Production Plot GPS Coordinates (if known):**
+
+| Plot ID | Latitude | Longitude | Area (hectares) |
+|---------|----------|-----------|-----------------|
+| _______ | ________ | _________ | _______________ |
+| _______ | ________ | _________ | _______________ |
+| _______ | ________ | _________ | _______________ |
+
+**If aggregated from multiple farms, attach:** [ ] Farm roster with GPS coordinates
+
+**Percentage of this batch traceable to plot level:** _______%
+
+\newpage
+
+# SECTION 3: ENVIRONMENTAL COMPLIANCE (EUDR)
+
+## 3.1 Deforestation-Free Verification
+
+**Declaration:** I certify that the cocoa in this batch was produced on land that was **not deforested after 31 December 2020**.
+
+[ ] Verified through satellite monitoring
+[ ] Verified through ground survey
+[ ] Verified through third-party audit
+[ ] Self-declaration (farmer statement)
+
+**Verification Date:** _________________________
+
+**Verification Report Reference:** _________________________
+
+**Verifying Organization/Person:** _________________________
+
+## 3.2 Legal Compliance
+
+**Declaration:** I certify that this cocoa was produced in accordance with the laws of the country of production, including:
+
+[X] Land use rights
+[X] Labor laws
+[X] Environmental protection regulations
+[X] Tax and customs requirements
+
+**Land Tenure Status:**
+[ ] Owned by farmer
+[ ] Leased (expiry date: ____________)
+[ ] Customary rights
+[ ] Cooperative land
+
+**Land Title/Lease Document Reference:** _________________________
+
+## 3.3 Protected Areas Check
+
+**Is production area within or adjacent to a protected area?** [ ] Yes [ ] No
+
+If Yes:
+- **Protected Area Name:** _________________________
+- **Buffer Zone Compliance:** [ ] Compliant [ ] Under review
+- **Permit Reference (if required):** _________________________
+
+\newpage
+
+# SECTION 4: SOCIAL COMPLIANCE (ESG)
+
+## 4.1 Labor Practices
+
+**Total Workers Involved in Production:** _______
+
+**Labor Composition:**
+- Family labor: _______ persons
+- Permanent hired labor: _______ persons
+- Seasonal hired labor: _______ persons
+
+**Child Labor Declaration:**
+
+**I certify that NO child labor (below 15 years) was used in the production of this cocoa.**
+
+[ ] Confirmed - No children below 15 worked on this batch
+[ ] Confirmed - Children 15-18 only engaged in age-appropriate tasks with educational access
+
+**Verification Method:**
+[ ] Farm visit and age verification
+[ ] Child Labor Monitoring System (CLMS) check
+[ ] Community oversight
+[ ] Third-party audit
+
+**Audit Reference (if applicable):** _________________________
+
+## 4.2 Fair Labor Practices
+
+**Were all workers paid at least the legal minimum wage?** [ ] Yes [ ] No [ ] N/A
+
+**Were working hours compliant with national labor law?** [ ] Yes [ ] No
+
+**Was Personal Protective Equipment provided where necessary?** [ ] Yes [ ] No [ ] N/A
+
+## 4.3 Gender & Inclusion
+
+**Women's participation:**
+- Women workers: _______ persons (_______%)
+- Women in decision-making roles: _______ persons
+
+**Payment equity:** [ ] Equal pay for equal work confirmed [ ] Under review
+
+\newpage
+
+# SECTION 5: ECONOMIC DATA (VALUE CHAIN TRANSPARENCY)
+
+## 5.1 Pricing Information
+
+**Price Paid for This Batch:** _____________ (Currency: _______)
+
+**Price per Kilogram:** _____________ (Currency: _______)
+
+**Pricing Basis:**
+[ ] Local market rate
+[ ] Fixed contract price
+[ ] Premium + base price (Premium: _______ %)
+[ ] Fair Trade minimum price
+
+**Premium Details (if applicable):**
+- Organic premium: _____________ (Currency: _______)
+- Sustainability premium: _____________ (Currency: _______)
+- Quality premium: _____________ (Currency: _______)
+
+## 5.2 Payment Terms
+
+**Payment Method:**
+[ ] Cash
+[ ] Bank transfer
+[ ] Mobile money
+[ ] In-kind
+[ ] Credit/Advance against future delivery
+
+**Payment Timing:**
+[ ] Immediate (at transaction)
+[ ] Within 7 days
+[ ] Within 30 days
+[ ] Deferred (specify: _____________)
+
+**Payment Status:** [ ] Paid in full [ ] Partial payment [ ] Payment pending
+
+**Transaction Receipt/Invoice Number:** _________________________
+
+## 5.3 Cost Breakdown (Optional but Recommended)
+
+| Cost Category | Amount (Currency: _______) |
+|---------------|----------------------------|
+| Production costs | _____________ |
+| Harvest labor | _____________ |
+| Transport | _____________ |
+| Processing/Fermentation | _____________ |
+| Storage | _____________ |
+| Certification fees | _____________ |
+| Cooperative fees | _____________ |
+| **TOTAL** | **_____________** |
+
+\newpage
+
+# SECTION 6: PRODUCTION PRACTICES (SUSTAINABILITY)
+
+## 6.1 Agricultural Practices
+
+**Farming System:**
+[ ] Monoculture cocoa
+[ ] Agroforestry with shade trees
+[ ] Intercropping with: _________________________
+[ ] Organic certified
+[ ] Regenerative agriculture practices
+
+**Shade Tree Density (trees/hectare):** _______
+
+**Tree Species Used for Shade:** _____________________________________________
+
+## 6.2 Inputs Used
+
+**Fertilizers:**
+[ ] None
+[ ] Organic compost
+[ ] Synthetic fertilizer (Type: _____________, Quantity: _______ kg/ha)
+
+**Pesticides:**
+[ ] None
+[ ] Organic/botanical pesticides (Type: _____________)
+[ ] Synthetic pesticides (Type: _____________, Quantity: _______ L/ha)
+
+**Herbicides:** [ ] Yes (Type: _____________) [ ] No
+
+**IPM (Integrated Pest Management) Practices:** [ ] Yes [ ] No
+
+## 6.3 Post-Harvest Processing
+
+**Fermentation Method:**
+[ ] Heap fermentation (Duration: _______ days)
+[ ] Box fermentation (Duration: _______ days)
+[ ] Basket fermentation (Duration: _______ days)
+[ ] No fermentation
+
+**Drying Method:**
+[ ] Sun drying on mats/platforms
+[ ] Solar dryer
+[ ] Mechanical dryer
+[ ] Mixed method
+
+**Quality Control Performed:**
+[ ] Cut test (% defects: _______)
+[ ] Moisture test (Result: _____%)
+[ ] Fermentation test
+[ ] Visual inspection
+
+\newpage
+
+# SECTION 7: CHAIN OF CUSTODY DOCUMENTATION
+
+## 7.1 Transport Information
+
+**Transport Date:** _____________ **Departure Time:** _____________
+
+**Departure Point:** _____________________________________________
+
+**Destination:** _____________________________________________
+
+**Transport Method:**
+[ ] Truck (License plate: _____________)
+[ ] Container (Container #: _____________)
+[ ] Ship (Vessel name: _____________)
+[ ] Other: _____________
+
+**Driver/Transporter Name:** _________________________
+
+**Estimated Arrival:** _____________
+
+## 7.2 Transfer Documentation
+
+**Delivery Note Number:** _________________________
+
+**Weighing Certificate:** [ ] Attached [ ] Not applicable
+
+**Phytosanitary Certificate (if export):** [ ] Attached (Cert. #: _____________)
+
+**Export Permit/License (if applicable):** _________________________
+
+**Bill of Lading (if shipped):** _________________________
+
+## 7.3 Next Custodian
+
+**Full Legal Name:** _____________________________________________________________
+
+**Registration Number:** _________________________ **Country:** _________________
+
+**Facility Address:** _____________________________________________________________
+
+**Expected Receiving Date:** _________________________
+
+\newpage
+
+# SECTION 8: CERTIFICATION & AUDIT TRAIL
+
+## 8.1 Third-Party Verification
+
+**Was this batch inspected by a third party?** [ ] Yes [ ] No
+
+If Yes:
+- **Inspecting Organization:** _________________________
+- **Inspector Name:** _________________________
+- **Inspection Date:** _________________________
+- **Inspection Report Reference:** _________________________
+- **Result:** [ ] Compliant [ ] Compliant with observations [ ] Non-compliant
+
+## 8.2 Digital Verification
+
+**Blockchain/Digital Ledger Entry:** [ ] Yes [ ] No
+
+**Transaction Hash (if applicable):** _________________________
+
+**QR Code Link:** _________________________
+
+**Satellite Imagery Reference:** _________________________
+
+- **Imagery Date:** _________________________
+- **Resolution:** _____________ meters
+- **Source:** [ ] Sentinel-2 [ ] Planet Labs [ ] Other: _____________
+
+## 8.3 Audit Access
+
+**This form and supporting documentation are available for audit by:**
+[X] National competent authorities
+[X] EU enforcement authorities
+[X] Independent auditors
+[X] Certification bodies
+[ ] Consumer/NGO verification (anonymized)
+
+\newpage
+
+# SECTION 9: RISK ASSESSMENT
+
+## 9.1 Self-Assessment Checklist
+
+| Risk Factor | Status | Comments |
+|-------------|--------|----------|
+| Deforestation risk in area | [ ] Low [ ] Medium [ ] High | _____________ |
+| Child labor risk in community | [ ] Low [ ] Medium [ ] High | _____________ |
+| Land tenure disputes | [ ] Low [ ] Medium [ ] High | _____________ |
+| Armed conflict/instability | [ ] Low [ ] Medium [ ] High | _____________ |
+| Corruption in supply chain | [ ] Low [ ] Medium [ ] High | _____________ |
+| Traceability breakdown risk | [ ] Low [ ] Medium [ ] High | _____________ |
+
+## 9.2 Due Diligence Actions
+
+**If ANY risk factors marked "High", describe mitigation actions taken:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Follow-up Inspection Planned:** [ ] Yes (Date: _____________) [ ] No
+
+\newpage
+
+# SECTION 10: DECLARATIONS & SIGNATURES
+
+## 10.1 Data Accuracy Declaration
+
+I declare that:
+
+- All information provided in this form is **accurate and complete** to the best of my knowledge
+- All supporting documentation referenced is **genuine and unaltered**
+- I understand that providing false information may result in **legal penalties**, loss of certification, and **exclusion from the supply chain**
+- I consent to this data being **shared with downstream supply chain actors** and **regulatory authorities** for verification purposes
+- I have the **legal authority** to transfer custody of this cocoa batch
+
+## 10.2 EUDR Compliance Declaration
+
+I specifically declare that:
+
+**The cocoa described in this form is DEFORESTATION-FREE** as defined in EU Regulation 2023/1115, and was produced on land that was **not deforested after 31 December 2020**.
+
+**The cocoa was produced in accordance with the laws of the country of production**, including but not limited to laws on land use, labor rights, environmental protection, and human rights.
+
+## 10.3 Signature
+
+**Name (Print):** _____________________________________________________________
+
+**Position/Title:** _________________________
+
+**Organization:** _____________________________________________________________
+
+**Signature:** _________________________
+
+**Date:** _________________________
+
+**Organization Stamp:**
+
+\vspace{2cm}
+
+\hrulefill
+
+## 10.4 Receiving Party Acknowledgment (To be completed by next custodian)
+
+**I acknowledge receipt of the cocoa batch described above.**
+
+**Quantity Received:** _____________ kg (Any discrepancy: _____________ kg)
+
+**Condition on Arrival:** [ ] Good [ ] Acceptable [ ] Damaged/Issue noted
+
+**Issue Description (if any):** _____________________________________________
+
+**Name (Print):** _____________________________________________________________
+
+**Signature:** _________________________
+
+**Date:** _________________________
+
+\newpage
+
+# SECTION 11: ATTACHMENTS CHECKLIST
+
+**The following supporting documents are attached or referenced:**
+
+[ ] GPS coordinate map of production plots
+[ ] Land title/lease documents
+[ ] Farmer roster (if aggregated batch)
+[ ] Satellite imagery verification
+[ ] Third-party audit report
+[ ] Certification certificates (copies)
+[ ] Child Labor Monitoring System (CLMS) report
+[ ] Transport/shipping documents
+[ ] Weighing certificates
+[ ] Phytosanitary certificate
+[ ] Export license
+[ ] Quality test results
+[ ] Payment receipts
+[ ] Previous form in chain (if applicable)
+
+\vspace{1cm}
+
+\hrulefill
+
+# APPENDIX: DATA USAGE & PRIVACY
+
+## For Supply Chain Actors
+
+This standardized form creates a **linked data chain** from farm to final product. Each form references the previous form, creating an unbreakable audit trail.
+
+## For Farmers & Cooperatives
+
+- You **own your data** - it cannot be used for commercial purposes without your consent
+- Your personal information is protected and only shared with verified supply chain partners
+- Aggregated, anonymized data may be used for sector-wide analysis
+- You can request access to all forms related to your cocoa
+
+## For Buyers & Manufacturers
+
+- This form provides **EUDR-compliant due diligence** documentation
+- Data can be exported directly to the EU Information System
+- Risk assessment section enables **proportionate due diligence**
+- Standardization reduces compliance costs across suppliers
+
+## For Regulators
+
+- Standardized format enables **automated compliance checking**
+- GPS coordinates allow **satellite verification** of deforestation claims
+- Linked forms create **full traceability** from farm to EU border
+- Digital signatures and timestamps create **tamper-evident records**
+
+## For the Sector
+
+By using this form universally, the cocoa sector inadvertently creates:
+
+- **A de facto ESG reporting standard** aligned with EUDR, CSRD, and emerging regulations
+- **Interoperable data** that can be shared across proprietary systems
+- **Comparable metrics** for benchmarking sustainability performance
+- **Reduced duplication** - one form serves multiple compliance needs
+- **Capacity building** - smallholders learn to document practices systematically
+
+\vspace{1cm}
+
+---
+
+**Form Version:** 1.0 | **Release Date:** 2025 | **License:** CC BY-SA 4.0
+
+**Beyond the Bar – Trace Project** | Value Chain Hackers | [www.valuechainhackers.org](http://www.valuechainhackers.org)
+
+*This form is open-source and may be adapted for other commodities or regulatory frameworks.*
