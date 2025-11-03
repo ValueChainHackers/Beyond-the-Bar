@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c:*)",
+      "Bash(pip install:*)",
+      "Bash(python extract_docx.py:*)",
+      "Bash(onderzoeksplan_content.json)",
+      "Bash(python extract_xlsx.py:*)",
+      "Bash(beoordeling_content.json)",
+      "Bash(vch_content.json)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
